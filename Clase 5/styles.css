@@ -1,0 +1,25 @@
+h1
+{
+color: gray;
+font-size: 150px;
+font-style: unset;
+text-shadow: black 5px 6px 20px;
+text-align: center;
+font-family: 'Vollkorn SC', serif;
+}
+
+body
+{
+	background-image: url('background.jpg');
+	background-size: cover;
+
+}
+
+p
+{
+	color: : black;
+	font-size:50;
+	font-family: 'Vollkorn SC', serif;
+
+}
+
