@@ -1,0 +1,220 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+
+#arriba
+{
+width: 100%;
+margin-top: 15px;
+background-color: rgb(239, 239, 239);
+}
+
+#arriba a
+{
+	text-decoration: none;
+	color: rgb(120, 40, 31);
+	background-color: rgb(251, 238, 230);
+
+}
+
+#arriba ul li
+{
+	margin-top: 10px;
+	font-family: tahoma;
+	font-size: 18px;
+	background-color: rgb(251, 238, 230);
+	width: 160px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 0px 20px 20px 0px;
+	padding-left: 20px;
+	box-shadow: 5px 0px 10px rgb(229, 232, 232);
+	-webkit-transition: padding-left: 0.6s;
+}
+
+#arriba ul li:hover
+{
+	background-color: rgb( 215, 219, 221);
+	padding-left: 50px;
+} 
+
+h1
+{
+	color:rgb(120, 40, 31); 
+
+}
+
+.menuDesayuno
+{
+	width: 560px;
+	height: 125px;
+	padding: 10px;
+	border: 10px solid white;
+	background-image: url('https://i.pinimg.com/564x/8d/8c/07/8d8c0734c7722b13f467e75d7e1b64a5.jpg');
+	background-position: 0 -245;
+	background-repeat: no-repeat;
+	background-size: cover;
+	filter: brightness(0.9);
+	filter: saturate(80%);
+	}
+
+.menuAlmuerzo
+{
+	width: 560px;
+	height: 125px;
+	padding: 10px;
+	border: 10px solid white;
+	background-image: url('https://i.pinimg.com/564x/08/ed/1d/08ed1dbd2ce30eed89e49c0dc69f0c40.jpg');
+	background-position: 0 -250;
+	background-repeat: no-repeat;
+	background-size: cover;
+	filter: brightness(0.9);
+	filter: saturate(80%);
+}
+
+.postres
+{
+	width: 560px;
+	height: 125px;
+	padding: 10px;
+	border: 10px solid white;
+	background-image: url('https://i.pinimg.com/564x/af/e0/d9/afe0d9391acde36d90ba833443d57e7d.jpg');
+	background-position: 0 -420;
+	background-repeat: no-repeat;
+	background-size: cover;
+	filter: brightness(0.9);
+	filter: saturate(80%);
+}
+
+.bebidas
+{
+	width: 560px;
+	height: 125px;
+	padding: 10px;
+	border: 10px solid white;
+	background-image: url('https://i.pinimg.com/564x/9f/c2/07/9fc207d763a0d91244bf4921397c3a7e.jpg');
+	background-position: 0 -420;
+	background-repeat: no-repeat;
+	background-size: cover;
+	filter: brightness(0.9);
+	filter: saturate(80%);
+}
+/*--------------------------------------CSS QUIENES SOMOS-------------------------------------*/
+
+.arribaQuienes
+{
+	width: 100%;
+	height: 150%;
+	background-image: url('https://i.pinimg.com/564x/6c/91/28/6c9128eddd3e58a30cff324202189374.jpg');
+	background-position: 0 -500;
+	background-repeat: no-repeat;
+	background-size: cover;
+	filter: brightness(0.9);
+	filter: saturate(80%);
+}
+
+.arribaQuienes h1
+{
+	font-size: 100px;
+	
+}
+
+h3
+{
+	font-size: 50px;
+}
+
+p
+{
+	font-size: 45px;
+}
+/*-----------------------------CSS UBICACION---------------------------------------------------*/
+
+
+.Caballito
+{
+	background-color: rgba(171, 178, 185);
+	height:60%;
+	width: 25%;
+	font-size: 20px;
+	color: white;
+	float: left;
+}
+
+.Recoleta
+{
+	background-color: rgba(171, 178, 185);
+	height:60%;
+	width: 25%;
+	font-size: 20px;
+	color:white;
+	float: left;
+
+}
+
+.PalermoSoho
+{
+	background-color: rgba(171, 178, 185);
+	height:60%;
+	width: 25%;
+	font-size: 20px;
+	color:white;
+	float: left;
+
+}
+
+.PuertoMadero
+{
+	background-color: rgba(171, 178, 185);
+	height:60%;
+	width: 25%;
+	font-size: 20px;
+	color:white;
+	float: left;
+}
+
+.Centro
+{
+	background-color: rgba(171, 178, 185);
+	height:60%;
+	width: 25%;
+	font-size: 20px;
+	color:white;
+	float: left;
+}
+
+.PlazaArmenia
+{
+	background-color: rgba(171, 178, 185);
+	height:60%;
+	width: 25%;
+	font-size: 20px;
+	color:white;
+	float: left;
+}
+
+.SanIsidro
+{
+	background-color: rgba(171, 178, 185);
+	height:60%;
+	width: 25%;
+	font-size: 20px;
+	color:white;
+	float: left;
+}
+
+.Olivos
+{
+	background-color: rgba(171, 178, 185);
+	height:60%;
+	width: 25%;
+	font-size: 20px;
+	color:white;
+	float: left;
+}
+h4
+{
+	font-size: 60px;
+}
